@@ -1,0 +1,12 @@
+USER           = unknown
+WORKING_DIR    = /home/bnbuitragom/Computational-Astrophysics
+SYSTEM_NAME    = Linux
+NODE_NAME      = Robot
+RELEASE        = 6.18.33.2-microsoft-standard-WSL2
+ARCH           = x86_64
+BYTE_ORDER     = little
+VERSION        = #1 SMP PREEMPT_DYNAMIC Thu Jun 18 21:54:43 UTC 2026
+PLUTO_DIR      = /home/bnbuitragom/PLUTO
+PLUTO_VERSION  = 2026)"
+C_COMPILER     = 
+MPI_C_COMPILER = 
