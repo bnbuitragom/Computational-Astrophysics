@@ -41,7 +41,7 @@
     o sizeof (State)      = 128
     o sizeof (Sweep)      = 568
 
-> Local time:       Thu Oct 29 15:13:43 2026
+> Local time:       Thu Nov  5 15:16:56 2026
 
 > Cmd line args:    
 
@@ -1336,7 +1336,7 @@ step:589; t = 1.4995e-01; dt = 4.7892e-05; 100.0 %
 > Writing file #3 (dbl) to disk...
 
 > Total allocated memory   69.38 Mb
-> Elapsed time              0d:0h:0m:56s
-> Average time/step         9.49e-02  (sec)  
-> Local time                Thu Oct 29 15:14:39 2026
+> Elapsed time              0d:0h:1m:9s
+> Average time/step         1.17e-01  (sec)  
+> Local time                Thu Nov  5 15:18:05 2026
 > Done

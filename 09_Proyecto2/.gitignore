@@ -1,0 +1,20 @@
+# Proyecto 2: solo se versiona lo necesario (lista blanca).
+#   - el notebook (informe y todo el código Python)
+#   - los archivos de entrada de PLUTO
+#   - las salidas de PLUTO que lee el notebook (100², 200², 400²)
+*
+!.gitignore
+!Proyecto2_MHD_Rotor.ipynb
+!pluto/
+!pluto/init.c
+!pluto/definitions.h
+!pluto/pluto.ini
+!pluto/makefile
+!pluto_run_100/
+!pluto_run_200/
+!pluto_run_400/
+!pluto_run_*/data.*.dbl
+!pluto_run_*/dbl.out
+!pluto_run_*/grid.out
+!pluto_run_*/run.log
+!pluto_run_*/pluto.ini
