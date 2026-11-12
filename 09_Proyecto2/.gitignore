@@ -18,3 +18,8 @@
 !pluto_run_*/grid.out
 !pluto_run_*/run.log
 !pluto_run_*/pluto.ini
+# imágenes que muestra el notebook
+!capturas/
+!capturas/*.png
+!figuras/
+!figuras/animacion_rotor.gif
